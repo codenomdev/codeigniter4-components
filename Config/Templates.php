@@ -13,5 +13,5 @@ class Templates extends BaseConfig
      *
      * @var string
      */
-    public $viewLayout = 'Codenom\Components\Templates\SBAdmin2\layout';
+    public $viewLayout = 'Codenom\Components\Views\SBAdmin2\layout';
 }
